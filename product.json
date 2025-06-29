@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Men's Kurta",
+    "price": "₹1499",
+    "category": "Men",
+    "image": "https://via.placeholder.com/300x400?text=Men+Kurta"
+  },
+  {
+    "name": "Women's Saree",
+    "price": "₹2499",
+    "category": "Women",
+    "image": "https://via.placeholder.com/300x400?text=Saree"
+  },
+  {
+    "name": "Jewelry Set",
+    "price": "₹999",
+    "category": "Women",
+    "image": "https://via.placeholder.com/300x300?text=Jewelry"
+  },
+  {
+    "name": "Kids Dress",
+    "price": "₹899",
+    "category": "Children",
+    "image": "https://via.placeholder.com/300x400?text=Kids+Dress"
+  }
+]
